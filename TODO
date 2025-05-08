@@ -1,0 +1,4 @@
+TODO
+
+Right it ends after one datagram. I shoudl make it so it stays open for longer. According to chatgpt, I can do that via a while loop
+
